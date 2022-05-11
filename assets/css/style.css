@@ -331,7 +331,7 @@ section {
   #about .copy-right {
     position: absolute;
     bottom: 2.5rem;
-    z-index: 2;
+    z-index: 20;
     left: 5%; }
     #about .copy-right h6 {
       color: #fff;
