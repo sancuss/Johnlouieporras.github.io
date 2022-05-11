@@ -534,7 +534,7 @@ section {
   #resume .copy-right {
     position: absolute;
     bottom: 2.5rem;
-    z-index: 2;
+    z-index: 9999;
     left: 5%; }
     #resume .copy-right h6 {
       color: #fff;
@@ -690,7 +690,7 @@ section {
   #portfolio .copy-right {
     position: absolute;
     bottom: 2.5rem;
-    z-index: 2;
+    z-index: 9999;
     left: 5%; }
     #portfolio .copy-right h6 {
       color: #fff;
@@ -928,7 +928,7 @@ section {
   #contact .copy-right {
     position: absolute;
     bottom: 2.5rem;
-    z-index: 2;
+    z-index: 9999;
     left: 5%; }
     #contact .copy-right h6 {
       color: #fff;
