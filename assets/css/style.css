@@ -202,7 +202,7 @@ section {
   #home .copy-right {
     position: fixed;
     bottom: 2.5rem;
-    z-index: 20;
+    z-index: 9999;
     left: 5%; }
     #home .copy-right h6 {
       color: #fff;
@@ -331,7 +331,7 @@ section {
   #about .copy-right {
     position: absolute;
     bottom: 2.5rem;
-    z-index: 20;
+    z-index: 9999;
     left: 5%; }
     #about .copy-right h6 {
       color: #fff;
